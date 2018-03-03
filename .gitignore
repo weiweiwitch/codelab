@@ -1,0 +1,9 @@
+# jetbrains工程的忽略
+.idea
+
+# nodejs工程的忽略
+node_modules
+yarn.lock
+yarn-error.log
+.awcache
+dist
