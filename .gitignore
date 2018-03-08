@@ -7,3 +7,9 @@ yarn.lock
 yarn-error.log
 .awcache
 dist
+
+# gradle工程的忽略
+.gradle
+build
+out
+*.iml
